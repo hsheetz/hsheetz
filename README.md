@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hannah
 - 👀 I’m interested in data science, finance, and product management
-- 🌱 I’m currently learning new data manipulation techniques, matching algorithms, and machine learning based classification
-- 💞️ I’m looking to collaborate on tools for non-traditional online betting
+- 🌱 I’m currently learning new data manipulation techniques, matching algorithms, and machine learning based 
 - 📫 How to reach me: hannahsheetz@yahoo.com
 
 <!---
